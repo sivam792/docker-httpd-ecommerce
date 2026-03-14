@@ -2,7 +2,7 @@
 FROM httpd:latest
 
 # Metadata (labels)
-LABEL maintainer="mahi <siva@gmail.com>"
+LABEL maintainer="siva <siva@gmail.com>"
 LABEL project="E-Commerce Sample Web App"
 
 # Set working directory
